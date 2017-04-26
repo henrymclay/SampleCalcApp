@@ -1,3 +1,9 @@
+A Ruby app that runs in the command line.
+
+`ruby samplecalcapp.rb` to run
+
+`rspec tests` to run tests
+
 Calculates sample things
 
 1 is the length in samples based on musical time
